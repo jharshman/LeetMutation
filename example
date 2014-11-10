@@ -1,0 +1,1 @@
+$ echo password | ./l33tMutate | head -n 20 
